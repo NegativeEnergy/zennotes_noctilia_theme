@@ -1,0 +1,6 @@
+# ~/.config/noctalia/templates.toml
+
+[theme.templates.user.zennotes]
+input_path = "~/.config/noctalia/templates/zennotes.css"
+output_path = "~/.config/zennotes/overrides/noctalia.css"
+
